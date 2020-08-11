@@ -1,6 +1,6 @@
 ### Hi there! I'm Darryl 👋
 
-## I'm a Gamer, Developer and Tech Enthusiast!
+## A Developer, Gamer and Tech Enthusiast!
 - 🔭 I’m currently working on improving my JavaScript and PHP skills
 - 🌱 I’m currently learning everything about web development
 - 👯 I’m looking to collaborate on any projects that will greatly help a beginner like me 🤣
@@ -9,12 +9,12 @@
 ### Connect with me:
 
 [<img align="left" width="22px" alt="dnicerio | Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" alt="dnicerio | Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" width="22px" alt="dnicerio | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" alt="dnicerio | Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
-### Language and Tools:
+### Languages and Tools:
 
 [<img align="left" width="26px" alt="GatsbyJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" width="26px" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -27,6 +27,7 @@
 [<img align="left" width="26px" alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][github]
 [<img align="left" width="26px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][github]
 [<img align="left" width="26px" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />][github]
+[<img align="left" width="26px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" width="26px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" width="26px" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" width="26px" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
